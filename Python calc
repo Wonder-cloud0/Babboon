@@ -1,0 +1,12 @@
+a=9
+b=8 
+addtion=a+b
+Subtract=a-b
+mutiply=a*b
+divide=a/b
+power=a**b
+print(addtion)
+print(Subtract)
+print(mutiply)
+print(divide)
+print(power)
